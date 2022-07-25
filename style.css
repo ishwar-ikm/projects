@@ -50,8 +50,19 @@ a:hover {
   background-color: #F9F9F9;
   position: relative;
   padding-top: 100px;
+  animation-duration: 2s;
+  animation-name: top-fade-in;
 }
 
+@keyframes top-fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 100;
+  }
+}
 .middle-container {
   padding: 100px 0;
 }
