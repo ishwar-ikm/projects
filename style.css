@@ -41,6 +41,7 @@ h5 {
   color: #be163a
 }
 p {
+  line-height: 1.7;
   color: #32252c;
   font-family: 'Merriweather', serif;
   width: 40%;
