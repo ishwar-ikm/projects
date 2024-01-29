@@ -191,8 +191,13 @@ hr {
   background-color: #6feec4;
 }
 
-.footer-link {
-  margin: auto 20px;
+.bx {
+  margin: auto 15px;
+  font-size: 2.5rem;
+}
+.bx:hover {
+  color: #105615;
+  cursor: pointer;
 }
 
 .ish {
